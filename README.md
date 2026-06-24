@@ -59,13 +59,4 @@ python visualization.py
 streamlit run app.py
 ```
 
-## Expected Outcome
-You will learn:
-- Data cleaning
-- Missing value handling
-- Duplicate removal
-- Outlier treatment
-- Exploratory Data Analysis
-- Dashboard creation
-- Data storytelling
 
