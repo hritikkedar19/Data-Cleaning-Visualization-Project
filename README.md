@@ -69,5 +69,3 @@ You will learn:
 - Dashboard creation
 - Data storytelling
 
-## Resume Line
-Built a Data Cleaning and Visualization project using Python, Pandas, Matplotlib, Seaborn, and Streamlit to clean raw sales data, handle missing values, remove duplicates and outliers, and create interactive business dashboards.
